@@ -29,10 +29,12 @@ This project helps users keep track of their daily calorie budget, consumed calo
 
 ---
 ## 📂 Project Structure
+```
 .
-├── index.html     # Struktur utama game
-├── style.css      # Tampilan & styling game
-└── script.js      # Logika game (JavaScript)
+├── index.html
+├── style.css
+└── script.js
+```
 
 ---
 ## 🚀 How to Run
